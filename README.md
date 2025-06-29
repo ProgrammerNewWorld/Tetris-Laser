@@ -4,6 +4,8 @@
 
 这是一个基于Web技术开发的俄罗斯方块游戏，具有激光特效、音频系统和动态难度调整等现代游戏特性。项目采用纯前端技术栈：HTML5 Canvas、CSS3和JavaScript，无需任何框架依赖。
 
+![image](https://github.com/user-attachments/assets/9d10a2aa-c3c1-48a2-bc32-cc0f0b7f68ac)
+
 ## 🎯 整体设计思路
 
 ### 核心架构
