@@ -226,9 +226,3 @@ if (this.specialMode) {
 5. **JavaScript高级特性**：类、模块化、事件处理
 
 这个项目展示了如何用现代Web技术创建一个功能完整的游戏，既保持了经典俄罗斯方块的核心玩法，又加入了现代化的视觉和音频效果，为用户提供了丰富的游戏体验。
-
----
-
-*项目地址：https://github.com/your-username/tetris-laser-game*
-
-*技术栈：HTML5 Canvas + CSS3 + JavaScript + Web Audio API* 
